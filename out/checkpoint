@@ -1,0 +1,2 @@
+model_checkpoint_path: "nist_convnet.chkp"
+all_model_checkpoint_paths: "nist_convnet.chkp"
